@@ -1,7 +1,15 @@
 # Private and Public Good Provision of Mental Health Services in France
 
 An empirical data analysis project studying how private mental health services interact with public mental health provision in France.
-Team : Salma El Aazdoudi, Cynthia Francis, Rafael Mourouvin and Anahi Reyes
+
+## Team
+
+This project was conducted as teamwork by:
+
+- Salma El Aazdoudi
+- Cynthia Francis
+- Rafael Mourouvin
+- Anahi Reyes
 
 ## Overview
 
