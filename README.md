@@ -1,7 +1,7 @@
 # Private and Public Good Provision of Mental Health Services in France
 
-**Authors:** Salma El Aazdoudi · Cynthia Francis · Anahi Reyes Miguel · Rafaël Mourouvin  
 **Course:** Data Analysis in Economics: Collection and Visualisation — Telecom Paris (2025)
+This project received the highest grade of the course.
 
 ---
 
