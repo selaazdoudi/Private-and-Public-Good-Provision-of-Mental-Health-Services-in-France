@@ -1,6 +1,6 @@
 # Private and Public Good Provision of Mental Health Services in France
 
-**Course:** Data Analysis in Economics: Collection and Visualisation — Telecom Paris (2025)
+**Course:** Data Analysis in Economics: Collection and Visualisation — Telecom Paris (2025).
 This project received the highest grade of the course.
 
 ---
